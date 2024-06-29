@@ -1,0 +1,12 @@
+[
+  {
+    "pattern": "(\\d+)\\(\\d+-\\d+\\)% increased Attack Speed",
+    "threashold": "2",
+    "isMinValue": true
+  },
+  {
+    "pattern": "(\\d+)% increased Cooldown Recovery Rate",
+    "threashold": "2",
+    "isMinValue": true
+  }
+]
